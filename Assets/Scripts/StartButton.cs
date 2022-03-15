@@ -8,6 +8,7 @@ public class StartButton : MonoBehaviour
     public void PlayGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        AudioListener.pause = false;
     }
 
     public void ExitGame()
