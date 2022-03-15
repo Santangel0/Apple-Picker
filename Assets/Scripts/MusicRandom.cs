@@ -17,7 +17,7 @@ public class MusicRandom : MonoBehaviour
     void Start()
     {
         int chance = Random.Range(0, 7);
-        //Debug.Log(chance);
+        Debug.Log(chance);
         switch (chance)
         {
            case 0:
