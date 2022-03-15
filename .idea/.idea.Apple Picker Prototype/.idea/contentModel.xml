@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Kangaroo\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Kangaroo\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Apple Picker Prototype.-1710781755.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Kangaroo\Desktop\GameDev\dvaKdvaodin\Apple Picker Prototype" t="IncludeRecursive">
+      <e p="Apple Picker Prototype.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Apple.cs" t="Include" />
+          <e p="AppleG.cs" t="Include" />
+          <e p="ApplePicker.cs" t="Include" />
+          <e p="AppleTree.cs" t="Include" />
+          <e p="Basket.cs" t="Include" />
+          <e p="HighScore.cs" t="Include" />
+          <e p="MenuButton.cs" t="Include" />
+          <e p="MusicRandom.cs" t="Include" />
+          <e p="PauseMenu.cs" t="Include" />
+          <e p="Result.cs" t="Include" />
+          <e p="StartButton.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\Bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
